@@ -2,10 +2,10 @@
 
 Some other things about me: 
 
-- 💻 I’m currently focused on school, softball & my internship!
-- 📚 My current projects are developing version 2 of my personal webstite & a little game to play in your terminal!  
-- 💬 Feel free to connect on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>.
-- 📫 Questions? Please <a href="mailto:juliagersey@gmail.com">email me</a>.
+- 💻 I’m currently focused on school, softball & my internship! <br>
+- 📚 My current projects are developing version 2 of my personal webstite & a little game to play in your terminal!  <br>
+- 💬 Feel free to connect on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>. <br>
+- 📫 Questions? Please <a href="mailto:juliagersey@gmail.com">email me</a>. <br>
 - 😄 Pronouns: she/her/hers
 
 
@@ -14,8 +14,9 @@ Some other things about me:
 
 <hr>
 <!--secret explanation for those that find  it
-<div align="center">
+
   <a href="https://www.clevelandart.org/art/2008.172">Profile Picture Inspiration</a> 
   <br-->
+<div align="center">
   Who is <a href="https://www.biography.com/scholar/ada-lovelace">Ada Lovelace</a>?
 </div>
