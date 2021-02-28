@@ -2,10 +2,14 @@
 
 Some other things about me: 
 
-- 💻 I’m currently focused on school, softball & my internship! <br>
-- 📚 My current projects are developing version 2 of my personal webstite & a little game to play in your terminal!  <br>
-- 💬 Feel free to connect on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>. <br>
-- 📫 Questions? Please <a href="mailto:juliagersey@gmail.com">email me</a>. <br>
+- 💻 I’m currently focused on school, softball & my internship! 
+<br>
+- 📚 My current projects are developing version 2 of my personal webstite & a little game to play in your terminal!  
+<br>
+- 💬 Feel free to connect on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>. 
+<br>
+- 📫 Questions? Please <a href="mailto:juliagersey@gmail.com">email me</a>. 
+<br>
 - 😄 Pronouns: she/her/hers
 <br>
 <div align="center">
