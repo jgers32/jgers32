@@ -4,9 +4,9 @@ Some other things about me:
 
 - 💻 I’m currently wrapping up my summer classes, packing to move back to school, and interning as a web app development intern @ <a href="https://www.goqwickly.com/">Qwickly</a>!
 
-- 📚 My most used language at the moment is Swift, as I grow into being an iOS Developer for BW's <a href="https://p3.scgcorp.com/projects/smartphones-reduce-food-waste-and-insecurity">Campus Plate</a> application, but otherwise I prefer Python, Java or Javascript.  
+- 📚 My most used language at the moment is Swift, as I grow into being an iOS Developer for BW's <a href="https://p3.scgcorp.com/projects/smartphones-reduce-food-waste-and-insecurity">Campus Plate</a> application, but otherwise I prefer Python or Java.  
 
-- 👩🏻‍💻 I'm currently working on rebuilding my <a href="https://juliagersey.xyz">personal website</a> into a Django web app, so I can better organize it and more easily keep it up to date.
+- 👩🏻‍💻 I'm currently working on rebuilding my <a href="https://juliagersey.xyz">personal website</a> to update the information on it, as well as feature some of my recent projects.
 
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>! 
 
