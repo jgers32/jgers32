@@ -2,7 +2,7 @@
 
 Some other things about me: 
 
-- 💻 I am an app development intern @ <a href="https://www.goqwickly.com/">Qwickly</a>!
+- 💻 I am an Application Development Intern @ <a href="https://www.goqwickly.com/">Qwickly</a>!
 
 - 📚 My most used language at the moment is Swift, as I am the Lead iOS Developer for BW's <a href="https://p3.scgcorp.com/projects/smartphones-reduce-food-waste-and-insecurity">Campus Plate</a> application, but otherwise I prefer Python or Java.  
 
