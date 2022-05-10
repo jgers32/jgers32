@@ -2,7 +2,7 @@
 
 Some other things about me: 
 
-- 💻 I am an Application Development Intern @ <a href="https://www.goqwickly.com/">Qwickly</a>!
+- 💻 I am an IT Intern @ <a href="https://www.medmutual.com/">Medical Mutual of Ohio</a>!
 
 - 📚 My most used language at the moment is Swift, as I am the Lead iOS Developer for BW's <a href="https://www.bw.edu/news/2021/fall/09-bw-student-faculty-computer-science-research-group-on-a-roll">Campus Plate</a> application, but otherwise I prefer C#, Python, or Java.  
 
