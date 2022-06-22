@@ -1,4 +1,4 @@
-### Hi there 👋  my name is Julia Gersey. I am a sophomore at <a href="https://www.bw.edu/">Baldwin Wallace University</a>👩🏻‍🎓 working towards my BSc in both Software Engineering & Applied Mathematics!
+### Hi there 👋  my name is Julia Gersey. I am a junior at <a href="https://www.bw.edu/">Baldwin Wallace University</a>👩🏻‍🎓 working towards my BSc in both Computer Science & Applied Mathematics!
 
 Some other things about me: 
 
