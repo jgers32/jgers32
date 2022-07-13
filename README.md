@@ -4,8 +4,6 @@ Some other things about me:
 
 - 💻 I am an IT Backend Development Intern @ <a href="https://www.medmutual.com/">Medical Mutual of Ohio</a>!
 
-- 📚 My most used languages are Python, C#, and Swift. 
-
 - 📚 My research focuses on <a href="https://www.bw.edu/news/2022/spring/06-bw-stem-majors-win-nasa-ohio-space-grant-consortium-scholarships">air quality</a>, and I am a <a href="http://osgc.org/recipients/">NASA OSGC scholar</a> for the 2022-2023 school year. My side projects focus on automating plant watering by soil sensing, while also recording the temperature and humidity.
 
 - 👩🏻‍💻 I'm currently working on rebuilding my <a href="https://juliagersey.xyz">personal website</a> to be a Django web app.
