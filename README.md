@@ -4,8 +4,6 @@ Some other things about me:
 
 - My research focuses on <a href="https://mopsdev.bw.edu/~bkrupp/aq/view.php">air quality</a>, and I am a <a href="http://osgc.org/recipients/">NASA OSGC scholar</a> for the 2022-2023 school year. My side projects focus on automating plant watering by soil sensing, while also recording the temperature and humidity.
 
-- I'm currently working on rebuilding my <a href="https://juliagersey.xyz">personal website</a> to be a Django web app.
-
 - Connect with me on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>! 
 
 - Pronouns: `She/Her`
