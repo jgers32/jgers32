@@ -2,9 +2,9 @@
 
 Some other things about me: 
 
-- My research focuses on <a href="https://mopsdev.bw.edu/~bkrupp/aq/view.php">air quality</a>, and I am a <a href="http://osgc.org/recipients/">NASA OSGC scholar</a> for the 2022-2023 school year. My side projects focus on automating plant watering by soil sensing, while also recording the temperature and humidity.
+- My research focuses on <a href="https://mopsdev.bw.edu/~bkrupp/aq/view.php">air quality</a>, and I am a <a href="http://osgc.org/recipients/">NASA OSGC scholar</a> for the 2022-2023 school year. 
 
-- Connect with me on <a href="https://www.linkedin.com/in/juliagersey/">LinkedIn</a>! 
+- I am currently looking for PhD programs that start in Fall of 2024, with a focus on pervasive computing, IoT/Mobile, & Privacy/Security. 
 
 - Pronouns: `She/Her`
 
