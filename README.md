@@ -1,5 +1,5 @@
 ### Welcome! My name is Julia Gersey & I am a Senior at Baldwin Wallace University working towards my BSc in both Computer Science & Applied Mathematics.
-#### Check out my <a href="https://juliagersey.com/">website</a> for more info.
+##### Check out my <a href="https://juliagersey.com/">website</a> for more info.
 
 Some things about me: 
 
