@@ -1,6 +1,7 @@
-### Welcome! My name is Julia Gersey & I am a Senior at Baldwin Wallace University working towards my BSc in both Computer Science & Applied Mathematics. Check out my <a href="https://juliagersey.com">website</a> for more info.
+### Welcome! My name is Julia Gersey & I am a Senior at Baldwin Wallace University working towards my BSc in both Computer Science & Applied Mathematics.
+## Check out my <a href="https://juliagersey.com/>website</a> for more info.
 
-Some other things about me: 
+Some things about me: 
 
 - My current research focuses on <a href="https://mops.bw.edu/air">fine-grained air quality sensing with IoT</a>, especially with implementing opportunistic sensing (BLE and LoRa). My work is supported by a <a href="http://osgc.org/recipients/">NASA Ohio Space Grant Consortium (OSGC) scholarship</a> for the 2023-2024 school year.
   
