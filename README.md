@@ -2,10 +2,11 @@
 
 Julia is...
 #### 📚 an Electrical & Computer Engineering Ph.D. Student
-#### 〽️ at the University of Michigan
-#### ⌨️ writing in Python, C, & Swift
-#### 💻 always learning :) 
+#### 〽️ at the University of Michigan (during the day...)
+#### ⌨️ hobbyist maker (at night...)
+#### 💻 & always learning :) 
 
+p.s. curious about what i make? find the easter egg on my academic website to unlock my maker site!
 ---
 
 <div align="center">
