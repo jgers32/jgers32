@@ -6,7 +6,7 @@ Julia is...
 #### ⌨️ hobbyist maker (at night...)
 #### 💻 & always learning :) 
 
-p.s. curious about what i make? find the easter egg on my academic website to unlock my maker site! (although, now it is on the nav bar, still bonus points if you unlock it with the easter egg...)
+p.s. curious about what i make? check out my <a href="https://juliagersey.com/maker">maker webpage</a>
 ---
 
 <div align="center">
