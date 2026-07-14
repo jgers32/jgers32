@@ -1,10 +1,11 @@
-# Check out my website: <a href="https://juliagersey.com/">juliagersey.com</a>
+# Welcome to Julia's GitHub 👋
 
 Julia is...
-#### 📚 an Electrical & Computer Engineering Ph.D. Student
-#### 〽️ at the University of Michigan (during the day...)
-#### 💻 & building things as Art3mis (at night...) :)
-
+- 📚 an Electrical & Computer Engineering Ph.D. Candidate 
+- 〽️ at the University of Michigan
+- 💻 & constantly working on [side projects](https://juliagersey.com/maker/)
+  
+### Check out my website: <a href="https://juliagersey.com/">juliagersey.com</a>
 ---
 
 <div align="center">
