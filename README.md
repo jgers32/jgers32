@@ -14,9 +14,10 @@ Ph.D. Candidate in Electrical & Computer Engineering @ University of Michigan, b
 `Embedded Systems` `Mobile & IoT Sensing` `Edge AI` `Multimodal ML` `Environmental Monitoring`
 
 ### 🛠️ Current Projects
-- **CrossSense** — multimodal contrastive embedding pipeline (RGB, thermal, audio, environmental) over [Sage](https://sagecontinuum.org/) edge nodes
-- **Everything Sensor** — autonomous multi-sensor acoustic + environmental monitoring platform, field-tested at Pinnacles National Park
-- **JAQ** — wearable air quality sensor (**J**ulia's **A**ir **Q**uality) built on the Adafruit Feather ecosystem + iOS app integration
+- **CrossSense**: multimodal contrastive embedding pipeline (RGB, thermal, audio, environmental) over [Sage](https://sagecontinuum.org/) edge nodes
+- **Everything Sensor**: autonomous multimodal acoustic + environmental monitoring platform for wildlife health & activity monitoring
+- **NeighborDrive**: vehicle-mounted multimodal sensing platform combining air-quality, environmental, vision, and GPS data to study neighborhood-scale urban conditions
+- **JAQ**: wearable air quality sensor (**J**ulia's **A**ir **Q**uality) built on the Adafruit Feather ecosystem + iOS app integration
 
 ---
 
