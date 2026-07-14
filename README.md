@@ -6,6 +6,16 @@ Julia is...
 - 💻 & constantly working on [side projects](https://juliagersey.com/maker/)
   
 ### Check out my website: <a href="https://juliagersey.com/">juliagersey.com</a>
+
+---
+
+## Research & Background
+
+- Embedded Systems
+- Sensing Networks
+- Mobile & IoT Computing
+- Multimodal Machine Learning
+
 ---
 
 <div align="center">
