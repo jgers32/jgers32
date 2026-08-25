@@ -13,11 +13,14 @@ Ph.D. Candidate in Electrical & Computer Engineering @ University of Michigan, b
 ### 🔬 Research & Interests
 `Embedded Systems` `Mobile & IoT Sensing` `Edge AI` `Multimodal ML` `Environmental Monitoring`
 
-### 🛠️ Current Projects
+### 🛠️ Current Research Projects
 - **CrossSense**: multimodal contrastive embedding pipeline (RGB, thermal, audio, environmental) over [Sage](https://sagecontinuum.org/) edge nodes
 - **Everything Sensor**: autonomous multimodal acoustic + environmental monitoring platform for wildlife health & activity monitoring
 - **NeighborDrive**: vehicle-mounted multimodal sensing platform combining air-quality, environmental, vision, and GPS data to study neighborhood-scale urban conditions
+
+### 💻 Current Side Projects (where I'm better known as [Art3mis...](https://github.com/art3mis-lab))
 - **JAQ**: wearable air quality sensor (**J**ulia's **A**ir **Q**uality) built on the Adafruit Feather ecosystem + iOS app integration
+- **Pixel Dasher**: easily changeable LED panel via discord commands, docker, and open APIs 
 
 ---
 
