@@ -1,6 +1,6 @@
 # Hi, I'm Julia 👋
 
-Ph.D. Candidate in Electrical & Computer Engineering @ University of Michigan, building intelligent, multimodal sensing systems that live at the edge (literally).
+Ph.D. Candidate in Electrical & Computer Engineering @ University of Michigan, building intelligent multimodal sensing systems that live at the edge (and in caves).
 
 - 🔭 Currently a **Visiting PhD Researcher at Argonne National Laboratory**, building CrossSense: a multimodal contrastive learning pipeline + federated vectorDBs over the [Sage](https://sagecontinuum.org/)  edge sensing infrastructure
 - 🎓 DOE Computational Science Graduate Fellow (2025–2029)
